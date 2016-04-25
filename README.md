@@ -1,2 +1,2 @@
 # blog
-Ruby on Rails Exercise
+Ruby on Rails Exercise!
